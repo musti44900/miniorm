@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"ModelTest::testCreateUser":0.72,"ModelTest::testFindUser":0.163,"ModelTest::testWhereQuery":0.04,"ModelTest::testAllUsers":0.113,"ModelTest::testDeleteUser":0.041}}
